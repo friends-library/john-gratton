@@ -1382,7 +1382,8 @@ to whom be praise and glory forever!
 [.asterism]
 '''
 
-__After at last finding what he had so long sought after,
+[.emphasized]
+After at last finding what he had so long sought after,
 John Gratton continued in faithful submission to His Master and
 became an eminent minister in the early Society of Friends.
 He traveled often in the service of the gospel, declaring all over England, Scotland,
@@ -1401,4 +1402,4 @@ at the age of sixty-nine years.
 Some of his very last words were, "`May the Lord bless His people,
 prosper His Truth amongst them, and enable them to live in love one with another.`"
 Not long after, weakening very fast, he said,
-"`Lord, I freely commit my soul and spirit unto you.`"__
+"`Lord, I freely commit my soul and spirit unto you.`"
