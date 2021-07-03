@@ -4,7 +4,8 @@ But some are ready to object, and say,
 You Quakers do mightily preach up the light within,
 but you say little of the death and sufferings of Christ outside the gates of Jerusalem.
 
-Answer; we have many accusers that say all manner of evil against us,
+[.discourse-part]
+_Answer;_ we have many accusers that say all manner of evil against us,
 which we patiently bear, knowing it is for his sake that suffered for us,
 who is become not only our light, but also our salvation as we abide in him,
 as he has commanded us.
@@ -64,14 +65,21 @@ And Isaiah 55, "`Ho every one that thirsts, come to the waters, etc.
 Behold you shall call a nation that you knew not,
 and nations that knew not you shall run unto you, because of the Lord your God.`"
 
+[.offset]
 Thus it is clear from the prophet in these three chapters,
 
-First; That we are all like lost sheep gone astray.
+[.numbered-group]
+====
 
-Secondly; What Christ has suffered for us, and how he appeared in the world,
+[.numbered]
+_First;_ That we are all like lost sheep gone astray.
+
+[.numbered]
+_Secondly;_ What Christ has suffered for us, and how he appeared in the world,
 and was rejected and despised of men.
 
-Thirdly; How after his death and sufferings,
+[.numbered]
+_Thirdly;_ How after his death and sufferings,
 the good will of God is plentifully seen to flow forth to all people,
 and an invitation is given to all who are thirsty, to come to the waters,
 as it is also in John 7:37; "`If any man thirst, let him come unto me and drink;
@@ -102,6 +110,8 @@ and in the region and shadow of death.
 "`The Spirit and the bride say.
 Come; and let him that hears say, Come; and let him that is athirst come;
 and whosoever will, let him take the water of life freely.`"
+
+====
 
 Thus the invitation goes out to all,
 and whosoever will may receive or take of the Fountain of living water freely,
@@ -170,4 +180,5 @@ and no true peace to be met with but in him; he is the way of peace:
 blessed are they who know him, and abide in him unto the end;
 they will lay down their heads in peace, when time with them here shall be no more.
 
+[.signed-section-signature]
 John Gratton.
