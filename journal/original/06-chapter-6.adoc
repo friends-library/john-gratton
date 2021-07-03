@@ -175,9 +175,14 @@ hath left a hopeful family behind him; praises be given to the Lord forever.
 
 In this year I had a concern to visit Friends with the following lines.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 An Epistle to Friends in Scotland, Written at Monyash, the 22nd of the Eleventh Month,
 1694.
 
+[.salutation]
 Truly beloved friends and brethren,
 
 With pure love unfeigned, which springs from the Fountain thereof,
@@ -291,7 +296,10 @@ Let copies of it be sent to all in Scotland.
 I thank God I am pretty healthy, but not strong in body.
 So with my true love to you all, I am your sincere friend in pure love,
 
+[.signed-section-signature]
 John Gratton.
+
+--
 
 I stayed about home some time, where I had many meetings,
 and there was a fine increase in the number of Friends.
