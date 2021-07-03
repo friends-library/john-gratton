@@ -1,9 +1,12 @@
 [short="A Few Words in True Love"]
 == A Few Words in True Love to all Who Believe that Christ Jesus, the Lamb of God, that Takes Away the Sins of the World, is Come the Second Time, Without Sin unto Salvation.
 
+[quote.scripture, , Heb. 9:28]
+____
 So Christ was once offered to bear the sins of many;
 and unto them that look for him shall he appear the second time, without sin,
-unto salvation. Heb. 9:28.
+unto salvation.
+____
 
 It is needful for all who believe the holy Scriptures, which testify of Christ,
 to look for him as he appears the second time without sin unto salvation;
@@ -362,4 +365,5 @@ This is the true and heavenly wisdom,
 hear her voice you sons of men! and take her counsel;
 "`Her ways are ways of pleasantness, and all her paths are peace.`"
 
+[.signed-section-signature]
 John Gratton.
