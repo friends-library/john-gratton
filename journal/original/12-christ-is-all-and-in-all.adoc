@@ -1,8 +1,7 @@
 == Christ is All, and in All
 
-Or a True Testimony Concerning Jesus Christ, the Unsearchable Gift of God,
-Who so loved the world, that He gave His only begotten Son,
-that whosoever believed in Him should not perish, but have everlasting life.
+[.blurb]
+=== Or a True Testimony Concerning Jesus Christ, the Unsearchable Gift of God, Who so loved the world, that He gave His only begotten Son, that whosoever believed in Him should not perish, but have everlasting life.
 
 Christ came into the world in the form of a servant, and went about doing good,
 and healing all manner of diseases; yet the world knew him not,
@@ -311,4 +310,5 @@ Arise, O Lord, and let thy enemies be scattered;`" make haste and come away.
 To the Lord I leave all, and in true love am a friend to all men,
 and servant for the Truth`'s sake.
 
+[.signed-section-signature]
 John Gratton.
