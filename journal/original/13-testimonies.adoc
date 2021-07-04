@@ -1,6 +1,7 @@
 == Testimonies of John Gratton
 
-John Whiting`'s Testimony Concerning Our Dear Friend John Gratton.
+[.blurb]
+=== John Whiting`'s Testimony Concerning Our Dear Friend John Gratton.
 
 Love to the precious Truth which I received in my early days,
 and embraced as my chiefest joy,
@@ -53,11 +54,14 @@ He died in the first month,
 1711-12. And precious in the sight of the Lord is the death of his saints:
 to whose divine grace and guidance I recommend all, with my own soul.
 
+[.signed-section-signature]
 John Whiting.
 
+[.signed-section-context-close]
 London, the 20th of the Twelfth month, 1719.
 
-Joseph Smith`'s Testimony Concerning John Gratton.
+[.blurb]
+=== Joseph Smith`'s Testimony Concerning John Gratton.
 
 Having known my dear friend, John Gratton thirty years or upwards,
 and he being one whom I dearly loved,
@@ -94,11 +98,14 @@ yet speaketh: and his memory is fresh in my remembrance,
 I being sensible that he died in the love of Truth,
 and in true love and unity with faithful brethren.
 
+[.signed-section-signature]
 Joseph Smith.
 
+[.signed-section-context-close]
 North Collingham, in Nottinghamshire, 22nd of the Third month, 1713.
 
-Josiah Langdale`'s Testimony Concerning Our Dear Friend, John Gratton.
+[.blurb]
+=== Josiah Langdale`'s Testimony Concerning Our Dear Friend, John Gratton.
 
 He was one whom I dearly loved because of that spirit
 that dwelt in him in a plentiful manner.
@@ -148,12 +155,14 @@ Well this may be safely said, that he was a man of God, and did good service in 
 and is entered into that rest,
 that is prepared for all those that love the Lord Jesus Christ.
 
+[.signed-section-signature]
 Josiah Langdale.
 
+[.signed-section-context-close]
 Bridlington, the 3rd day of the Eighth month, 1712.
 
-A Testimony from Several Friends in Cheshire, Concerning Our Ancient Friend,
-John Gratton, Deceased.
+[.blurb]
+=== A Testimony from Several Friends in Cheshire, Concerning Our Ancient Friend, John Gratton, Deceased.
 
 We whose names are hereunto subscribed,
 having had a pretty early and long acquaintance with that good man, thought it our duty,
@@ -212,14 +221,16 @@ and unto the Lamb that sits upon the throne, the glory, honour,
 and high praises that are his due, and our duty to render him, even world without end.
 Amen.
 
+[.signed-section-signature]
 Joseph Endon, John Walker, Ralfe Brock, John Hough, William Harrison, John Hobson,
 Benjamin Bangs, Martha Hobson, Mary Richardson, Martha Royle, Tabitha Ardern, Mary Bangs,
 Martha Moss.
 
+[.signed-section-context-close]
 Stockport, the 2nd of the First month, 1712-13.
 
-The Testimony of Several Friends Belonging La Monyash Monthly Meeting,
-Concerning Our Deceased Friend, John Gratton.
+[.blurb]
+==== The Testimony of Several Friends Belonging La Monyash Monthly Meeting, Concerning Our Deceased Friend, John Gratton.
 
 We whose names are hereunto subscribed, being members of Monyash monthly meeting,
 whereunto our well beloved friend, John Gratton, did many years belong,
@@ -244,10 +255,12 @@ and do believe that he lived and died a servant of the Lord.
 He departed this life at Farnsfield, in Nottinghamshire,
 in the sixty-ninth year of his age.
 
+[.signed-section-signature]
 Elihu Hall, Henry Bowman, Cornelius Bowman, George Potter, Rebecca Bowman, Ann Bowman,
 Sarah Potter, Hester Bowman.
 
-Phebe Bateman`'s Testimony Concerning Her Dear Father and Mother.
+[.blurb]
+=== Phebe Bateman`'s Testimony Concerning Her Dear Father and Mother.
 
 It hath been much in my mind to give a short account
 of the latter end of my dear and tender parents,
@@ -360,6 +373,8 @@ He was buried beside my dear mother the 11th of the same,
 in the sixty-ninth year of his age,
 having been convinced of the Truth about forty years.
 
+[.signed-section-signature]
 Phebe Bateman.
 
+[.signed-section-context-close]
 Farnsfieid, 1712.

@@ -1,7 +1,8 @@
 [short="Letter to a Magistrate"]
 == A Copy of a Letter Sent to a Great Person, After I Had Been in Discourse With Him at His Own House, in the Tenth Month, 1694.
 
-Beloved friend.
+[.salutation]
+Beloved friend,
 
 In true love I write these lines.
 It is cause of grief to me, that thou being a magistrate,
@@ -86,4 +87,5 @@ I wish we and our principles were better known to all men,
 for we are hated without just cause.
 I pray God forgive them that do it, and am thy true friend in sincerity.
 
+[.signed-section-signature]
 John Gratton.
