@@ -198,7 +198,7 @@ to carry on our business for a livelihood; she also came sometimes to see me in 
 though it was sixteen miles, which was hard for her in the winter season.
 
 Whilst I was a prisoner I wrote a little book,
-which I entitled "`The Prisoner`'s Vindication,`"
+which I entitled [.book-title]#The Prisoner`'s Vindication,#
 also some epistles and letters to Friends,
 and meditations in verse, for my children.
 The reason why I wrote some remarkable passages of my sufferings for Truth,
@@ -209,8 +209,13 @@ and valiant for the Truth upon the earth; for this cause it came into my mind,
 to tell to others how good the Lord hath been to me,
 for which I am deeply engaged to praise his great name.
 
+[.offset]
 +++[+++The following extract is taken from the work above alluded to.]
 
+[.embedded-content-document]
+--
+
+[.letter-heading]
 To all Persecutors, Both by Words and Actions.
 
 Upon the 16th day of the Sixth month, called August, 1680;
@@ -560,3 +565,5 @@ How unlike are you to him who is good to all men,
 and laid down his life a ransom for all,
 and doth cause his sun to shine upon all, and his rain to descend upon all,
 and his grace that brings salvation appears in all, and strives with all.
+
+--
