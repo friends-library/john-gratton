@@ -675,6 +675,10 @@ in whom all our fresh springs are.
 Feel it reader, in thyself, hast thou not seen it gush out of thy rocky heart?
 When Christ, the spiritual Moses, hath smitten upon it, with the rod of God in his hand.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 An Epistle to Friends.
 
 My dear Friends, It is in my heart to write a few lines to you ere I proceed.
@@ -755,6 +759,10 @@ for stronger is he that is in you, than he that is in the world.
 
 From your dear friend and fellow-labourer in the work of the gospel.
 
+[.signed-section-signature]
 John Gratton.
 
+[.signed-section-context-close]
 3rd of the Eighth month, 1673.
+
+--
