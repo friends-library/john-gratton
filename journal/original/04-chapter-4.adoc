@@ -229,7 +229,7 @@ and by his own right arm did unutterable things.
 Many were convinced, yea, hundreds, I believe, and came to meetings,
 at which the devil was angry, and I was cast into prison.
 
-Soon after this, a writ de Excommunicato Capiendo came out.
+Soon after this, a writ _de Excommunicato Capiendo_ came out.
 While I was abroad among Friends,
 I had a great sense of a deep suffering falling upon me,
 insomuch that I said to a friend, it was so deep I could not see to the bottom of it;
@@ -347,6 +347,10 @@ These are the hirelings that show their envious spirit, who spare not the flock 
 
 This year I wrote an epistle to the yearly meeting in London, which is as follows:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear friends and brethren.
 
 In the pure unchangeable truth do I dearly salute you all;
@@ -425,9 +429,13 @@ Amen.
 
 Written in Derby jail, where I am a prisoner for the Truth`'s sake.
 
+[.signed-section-signature]
 John Gratton.
 
+[.signed-section-context-close]
 22nd of the Third month, 1683.
+
+--
 
 After some years the jailer gave me leave to go home sometimes, and stay some weeks,
 but it displeased the priests and apparitors.
