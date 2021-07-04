@@ -1,5 +1,6 @@
 == An Epistle to Friends in Pennsylvania.
 
+[.salutation]
 Truly beloved Friends,
 
 Mahlon Stacy, John Wilford, George Wood, John Blunstone, Francis Davenport,
@@ -292,6 +293,8 @@ let it be, O Lord! for you only are able to say, Amen to it in truth.
 So prays your dear friend and brother in the service and sufferings of the blessed Truth,
 that lives and abides forever.
 
+[.signed-section-signature]
 John Gratton.
 
+[.signed-section-context-close]
 Written at Monyash, in the Seventh month, 1693.
